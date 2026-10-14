@@ -1,0 +1,2 @@
+mysql-connector-python==26.7.0
+rich==15.0.0
